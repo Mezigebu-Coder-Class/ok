@@ -1,1 +1,0 @@
-# Election-algorithm-in-distributive-system
